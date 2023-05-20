@@ -10,6 +10,6 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=truongvanthong&theme=radical)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=truongvanthong&theme=radical)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongvanthong&show_icons=true&theme=radical)
  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truongvanthong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
