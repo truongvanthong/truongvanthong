@@ -48,6 +48,4 @@
   
 - 🌱 I’m currently learning **Machine Learning , Deep Learning, Power BI**
 
-- 👨‍💻 All of my projects are available at [http://baodoan-portfolio.surge.sh/](http://baodoan-portfolio.surge.sh/)
-
 - 📫 How to reach me **truongvantthong@gmail.com**
