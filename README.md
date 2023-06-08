@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Văn Thông</h1>
-<h3 align="center">I'm a Data Analyst</h3>
+<!-- <h3 align="center">I'm a Data Analyst</h3> -->
 <div align="center"><img width="200px" src="https://i.pinimg.com/originals/4c/5b/68/4c5b68bb6f2cadd738fa852f32188fd2.gif"/> </div>
 
 
