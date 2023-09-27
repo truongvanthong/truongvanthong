@@ -46,6 +46,6 @@
   </p>
  
   
-- 🌱 I’m currently learning **Machine Learning , Deep Learning, Power BI**
+- 🌱 I’m currently learning **Machine Learning , Deep Learning, Natural language processing, Power BI**
 
 - 📫 How to reach me **truongvantthong@gmail.com**
