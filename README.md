@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! This is VanThong 👋</h1>
+<h1 align="center">Hello World! This is TruongVanThong 👋</h1>
 <p align="center">
   <!-- Data Analyst, Machine Learning, Deep Learning, NLP, and other skills... -->
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Machine+Learning;Deep+Learning;NLP;and+other+skills...&center=true&width=500&height=50">
@@ -89,7 +89,6 @@
 <a href="https://facebook.com/vianhlagio2307"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
-### Snake
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
