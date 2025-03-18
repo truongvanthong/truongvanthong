@@ -10,10 +10,9 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, DialogfLow Django, NLP, and other skills...**
 
-- 👨‍💻 All of my projects are available at [GitHub Me](https://github.com/truongvanthong?tab=repositories)
+- 👨‍💻 Portfolio: https://portfolio.iuh-data-science.id.vn/
 
 - 📫 How to reach me truongvantthong@gmail.com
-
 
 <img id="optionalstuff" alt="Night Coding" src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" width=400px align="right"/>
 
